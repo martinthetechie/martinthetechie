@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinthetechie
-- 👀 I’m interested in building startups.
-- 🌱 I’m currently learning Blockchain and Fintech. 
+- 👀 I’m interested in building AI Full Stack Projects.
+- 🌱 I’m currently learning Machine Learning and Fintech. 
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me : Email me at martinthetechie@gmail.com
 
