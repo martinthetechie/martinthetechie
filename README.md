@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martinthetechie
-- 👀 I’m interested in building AI Full Stack Projects.
-- 🌱 I’m currently learning Machine Learning and Fintech. 
-- 💞️ I’m looking to collaborate on everything.
+- 👀 I’m interested in building AI Full Stack Projects
+- 🌱 I’m currently learning about the field of Machine Learning
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me : Email me at martinthetechie@gmail.com
 
 <!---
